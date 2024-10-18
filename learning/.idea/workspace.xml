@@ -211,6 +211,7 @@
   <component name="RunManager" selected="Python.17.生成指定列表">
     <configuration name="13.单个pushbutton在gridlayout中居中" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learning" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -232,6 +233,7 @@
     </configuration>
     <configuration name="14.富文本编辑器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learning" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -253,6 +255,7 @@
     </configuration>
     <configuration name="15.获取matlab输出" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learning" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -274,6 +277,7 @@
     </configuration>
     <configuration name="16.点击打开指定文件夹" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learning" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -295,6 +299,7 @@
     </configuration>
     <configuration name="17.生成指定列表" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learning" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -401,7 +406,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/python/Python39/Lib/runpy.py">
+    <entry file="file://$PROJECT_DIR$/../../../python/Python39/Lib/runpy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="196" selection-start-line="196" selection-end-line="196" />
@@ -414,7 +419,7 @@
     <entry file="file://$PROJECT_DIR$/在qt中使用matplotlib/test/neurosim.ui">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://E:/python/Python39/Lib/site-packages/PyQt5/QtWidgets.pyi">
+    <entry file="file://$PROJECT_DIR$/../../../python/Python39/Lib/site-packages/PyQt5/QtWidgets.pyi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
           <caret line="334" column="29" selection-start-line="334" selection-start-column="29" selection-end-line="334" selection-end-column="29" />
